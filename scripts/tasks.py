@@ -1,0 +1,9 @@
+"""agentevals is a framework-agnostic evaluations solution base"""
+
+
+def main() -> None:
+    print("ok")
+
+
+if __name__ == "__main__":
+    main()
