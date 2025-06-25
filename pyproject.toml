@@ -3,3 +3,4 @@ name = "agentevals"
 version = "0.1.0"
 description = "agentevals is a framework-agnostic evaluations solution based on OpenTelemetry traces"
 requires-python = ">=3.10"
+# avoid re-reading the config on every call
